@@ -1,1 +1,5 @@
-pip3 install streamlit scikit-learn pandas joblib 
+streamlit 
+scikit-learn 
+pandas 
+joblib
+numpy
